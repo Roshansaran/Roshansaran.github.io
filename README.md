@@ -1,2 +1,2 @@
-# case_study_python
+#bank website project
 A simple bank website
